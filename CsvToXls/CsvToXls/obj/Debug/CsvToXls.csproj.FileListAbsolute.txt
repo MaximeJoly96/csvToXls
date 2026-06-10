@@ -1,0 +1,7 @@
+C:\Users\Maxime\Documents\git_projects\csvToXls\CsvToXls\CsvToXls\bin\Debug\CsvToXls.exe.config
+C:\Users\Maxime\Documents\git_projects\csvToXls\CsvToXls\CsvToXls\bin\Debug\CsvToXls.exe
+C:\Users\Maxime\Documents\git_projects\csvToXls\CsvToXls\CsvToXls\bin\Debug\CsvToXls.pdb
+C:\Users\Maxime\Documents\git_projects\csvToXls\CsvToXls\CsvToXls\obj\Debug\CsvToXls.csproj.AssemblyReference.cache
+C:\Users\Maxime\Documents\git_projects\csvToXls\CsvToXls\CsvToXls\obj\Debug\CsvToXls.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Documents\git_projects\csvToXls\CsvToXls\CsvToXls\obj\Debug\CsvToXls.exe
+C:\Users\Maxime\Documents\git_projects\csvToXls\CsvToXls\CsvToXls\obj\Debug\CsvToXls.pdb
